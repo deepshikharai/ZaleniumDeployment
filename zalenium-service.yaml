@@ -5,7 +5,7 @@ metadata:
   namespace: zalenium
 spec:
   type: LoadBalancer
-  loadBalancerIP: "35.229.108.82"
+  loadBalancerIP: "35.231.203.123"
   sessionAffinity: None
   ports:
     - name: zalenium
